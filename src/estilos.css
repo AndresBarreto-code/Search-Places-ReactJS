@@ -1,0 +1,14 @@
+.container2 {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+
+.container2 {
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-flex-flow: row wrap !important;
+	flex-flow: row wrap !important;
+}
+
